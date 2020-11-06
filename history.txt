@@ -1,0 +1,1000 @@
+  286  ls
+  287  cd "YouTube tut"/
+  288  ls
+  289  make rule_a
+  290  ls
+  291  cd ..
+  292  ls
+  293  cd Bootcamp/
+  294  ls
+  295  cd Day02
+  296  ls
+  297  cd ex00
+  298  ls
+  299  makfile
+  300  makefile
+  301  ls
+  302  make NAME
+  303  make all
+  304  ./nazo
+  305  ls
+  306  rm namo
+  307  rm nazo
+  308  ls
+  309  cd ..
+  310  ls
+  311  ls ex02
+  312  la 
+  313  ld
+  314  l
+  315  ll
+  316  man l
+  317  ls
+  318  lx
+  319  ld
+  320  l -a
+  321  ls -a
+  322  ls
+  323  cd ..
+  324  ls
+  325  mkdir Lib
+  326  cd lib
+  327  ft_putchar.c
+  328  touch ft_putchar.c
+  329  ls
+  330  ft_putchar.c
+  331  ./ft_putchar.c
+  332  ./ft_strrev.c
+  333  touch ft_strrev.c
+  334  ./ft_strrev.c
+  335  touch ft_strlen.c
+  336  touch ft_putstr.c
+  337  ls
+  338  libft.h
+  339  touch libft.h
+  340  touch libft.a
+  341  gcc -c ft_putchar.c
+  342  ls
+  343  gcc -c ft_putstr.c
+  344  gcc -c ft_strlen.c
+  345  gcc -c ft_strrev.c
+  346  ls
+  347  rc libft.a *.o
+  348  touch makefile
+  349  ls
+  350  make puts
+  351  ls
+  352  em libft.h
+  353  rm libft.h
+  354  ls
+  355  make all
+  356  ls
+  357  cd 
+  358  ls
+  359  cd 'cd l
+  360  ls
+  361  ls -la
+  362  cd l
+  363  ls
+  364  ./a.out 
+  365  ls
+  366  cd C
+  367  ls
+  368  cd Bootcamp/
+  369  cd LIb
+  370  ls
+  371  make strrev
+  372  make strr
+  373  make strrev lamel
+  374  make yah lamel
+  375  cd ..
+  376  cd Videos/
+  377  cd Learning/
+  378  nkdir Udacity
+  379  mkdir Udacity
+  380  mv "Intro into HTML" Udacity/
+  381  ls
+  382  mv "Network security" Udacity
+  383  ls
+  384  mv "Intro Into Python Programming" Udaacity
+  385  ls
+  386  cd Udacity/
+  387  ls
+  388  mkdir "New Folder"
+  389  ls
+  390  cd C
+  391  ls
+  392  cd Python/
+  393  LS
+  394  ls
+  395  ls -la
+  396  ls First/
+  397  ls Project/
+  398  cd F
+  399  cd First/
+  400  ls
+  401  cal.py
+  402  rc libft.a *.o
+  403  sudo aot install rc
+  404  sudo apt install rc
+  405  rc libft.a *.o
+  406  sudo apt install rc
+  407  ls
+  408  rc
+  409  sudo apt install rc
+  410  rc hey.c
+  411  ls
+  412  mkdir Pyto
+  413  cd Pyto
+  414  mkdir "First"
+  415  cd first
+  416  ls
+  417  cd ..
+  418  ls
+  419  cd ..
+  420  sl
+  421  ls
+  422  l
+  423  cd ..
+  424  ls
+  425  cd ..
+  426  ls
+  427  cd Documents/
+  428  ls
+  429  cd Python\ Scripts/
+  430  ls
+  431  cd ..
+  432  cd NFS\ Most\ Wanted/
+  433  ls
+  434  cd ..
+  435  ls
+  436  cd Desktop/
+  437  cd Momo/
+  438  ls
+  439  cd Software/
+  440  ls
+  441  cd Games/
+  442  ls
+  443  cd ..
+  444  ls
+  445  cd ..
+  446  cd Music/
+  447  ls
+  448  cd yubevulo/
+  449  ls
+  450  cd Need-for-Speed-Most-Wanted-2005_www.FreeGamesDL.net/
+  451  ls
+  452  cd ..
+  453  ls
+  454  cd ..
+  455  ls
+  456  cd ..
+  457  cd Workspaces/
+  458  ls
+  459  mkdir "HTML, CSS, Bootstrap"
+  460  ls
+  461  cd pyt
+  462  ls
+  463  cd Python/
+  464  ls
+  465  cd First/
+  466  ls
+  467  python ./cal.py
+  468  python3 ./cal.py
+  469  python ./cal.py 
+  470  python3 ./cal.py 
+  471  ls
+  472  cd ..
+  473  ls
+  474  cd ll/
+  475  ls
+  476  cd C
+  477  ls
+  478  ls "YouTube tut"/
+  479  cd ..
+  480  ls
+  481  cd 
+  482  ls
+  483  exit
+  484  mkdir Py
+  485  ls
+  486  cd Py/
+  487  ls
+  488  mkdir cal
+  489  cd cal
+  490  ls
+  491  python3 ./hy.py 
+  492  ld
+  493  ls
+  494  man ld
+  495  ls
+  496  ls Python/
+  497  cd P
+  498  cd Python/
+  499  ls
+  500  cd First/
+  501  ls
+  502  ./cal.py
+  503  python3 ./cal.py 
+  504  ls
+  505  cd ,,
+  506  cd .
+  507  cd ..
+  508  ls
+  509  mkdir 
+  510  mkdir Uda
+  511  cd Uda/
+  512  ls
+  513  mkdir Lesson 1
+  514  mkdir Lesson 2
+  515  rm -R Lesson/
+  516  mkdir "Lesson 1"
+  517  mkdir 'Lesson 2'
+  518  ls
+  519  rm -R 1 2
+  520  ls
+  521  mkdir "Lesson 3"
+  522  cd 'Lesson 1'\ 
+  523  ls
+  524  cd "Lesson 2"
+  525  cd ..
+  526  cd 'Lesson 1'
+  527  ls 
+  528  python3 ./st.py
+  529  clear
+  530  ls
+  531  lll
+  532  d ..
+  533  kls
+  534  lllllls
+  535  kjhdcbjsjk
+  536  ls
+  537  cd Python/
+  538  ls
+  539  cd Uda/
+  540  ls
+  541  cd "Lesson 1
+  542  cd "Lesson 1
+  543  "
+  544  cd "Lesson 1"
+  545  ls
+  546  python3 ./st.py
+  547  ptyhon3 ls.py
+  548  python3 ls.py
+  549  ls
+  550  cd Python/
+  551  ls
+  552  cd uda
+  553  cd ls
+  554  ls
+  555  cd 'Lesson 1'
+  556  ls
+  557  ls -la
+  558  ls
+  559  C:/Users/Siphe/AppData/Local/Programs/Python/Python38/python.exe
+  560  print(name.capitalize + ' you are '+ str())
+  561  python3 bd.py
+  562  ls
+  563  cd Python/
+  564  cd uda
+  565  cd 'Lesson 1'
+  566  ls
+  567  python3 bd.py
+  568  ls
+  569  python3 cal.py
+  570  ls
+  571  ls -la
+  572  cd ../../../../
+  573  cd ..
+  574  cd Music/
+  575  cd l
+  576  mkdir 'Jorja Smith - Lost & Found'
+  577  ls
+  578  cd ..
+  579  cd Workspaces/
+  580  cd P
+  581  ls
+  582  cd Pyt/
+  583  cd Python/`
+  584  `
+  585  cd Uda/
+  586  cd 'Lesson 1'
+  587  ls
+  588  la
+  589  a
+  590  ls la
+  591  la
+  592  -la
+  593  ls -la
+  594  cd ../../../../
+  595  ../
+  596  cd ../
+  597  cd Videos/
+  598  mkdir "Senzo Movies"
+  599  cd ..
+  600  cd Workspaces/
+  601  cd Pyt/
+  602  cd Python/Uda/"Python/Uda/Lesson 1'
+  603  "
+  604  cd Python/Uda/"Python/Uda/Lesson 1"
+  605  cd Python/Uda/Python/Uda/"Lesson 1"
+  606  ls
+  607  cd Python/Uda/Python/Uda
+  608  cd Python/Uda/"Python/Uda/Lesson 1"
+  609  cd Python/Uda/
+  610  "lesson 1"
+  611  cd "lesso 1"
+  612  ls
+  613  cd 'Lesso !\1'
+  614  cd 'Lesso 1"
+  615  '
+  616  cd 'Lesson 1'
+  617  ls
+  618  date
+  619  ls
+  620  ls ..
+  621  ls ../../
+  622  ls ../../../
+  623  ls ../../../../
+  624  ls ../../../../../
+  625  cd ../../../../../'
+  626  '
+  627  cd ../../../../../
+  628  ls
+  629  cd "Lost In June (Album)"/
+  630  'ls
+  631  '
+  632  "
+  633  "
+  634  ls
+  635  cd ..
+  636  cd "Lost In June.rar"/
+  637  ls
+  638  cd "Lost In June (Album).rar"/
+  639  rm "Lost In June (Album).rar"
+  640  ls
+  641  touch 'New Text Document (2).txt' 
+  642  vi 'New Text Document (2).txt' 
+  643  ls
+  644  mv matrix.bat Software/
+  645  ls
+  646  mv 'The Matrix.bat' Software/
+  647  ls
+  648  mv PTT-20180329-WA0014.opus Phone/
+  649  mv PTT-20180329-WA0015.opus Phone/
+  650  ls
+  651  mv 'Lost In June (Album)' Musiv
+  652  mv Musiv "Pip Millett - Lost in June"
+  653  mv Lonnie\ Liston\ Smith\ -\ Dreams\ Of\ Tomorrow/ Music/
+  654  ls
+  655  mv 'Pip Millett - Lost in June' Music/
+  656  ls
+  657  cd Music/
+  658  ls
+  659  mkdir Gospel
+  660  mv 'Vuyo Mokeona - The Greatest hits' Gospel/
+  661  ls
+  662  cd Voodoo\ Outakes R&B
+  663  cd Voodoo\ Outakes R\&B
+  664  cd "Voodoo Outakes" 'R&B'
+  665  cd "Voodoo Outakes" "R&B"
+  666  mc "Voodoo Outakes" "R&B"
+  667  mv "Voodoo Outakes" "R&B"
+  668  ls
+  669  cd ..
+  670  cd Music/
+  671  cd R&B
+  672  cd R\&B
+  673  ls
+  674  clear
+  675  s
+  676  ls
+  677  cd ls
+  678  ~ % ls
+  679  % mkdir basic-tetris
+  680  ~ % cd Desktop
+  681  whoami
+  682  dmesg
+  683  lshw
+  684  last
+  685  ls
+  686  ps
+  687  chmod
+  688  man chmod
+  689  ls
+  690  cd ..
+  691  ld
+  692  ls
+  693  cd ..
+  694  ls
+  695  cd mnt
+  696  ls
+  697  cd c
+  698  ls
+  699  cd Users/
+  700  ls
+  701  cd Siphe/
+  702  l
+  703  cd OneDrive/
+  704  ls
+  705  cd Desktop/
+  706  cd MO
+  707  cd Momo/
+  708  LS
+  709  CD ls
+  710  l
+  711  cd Music/
+  712  ls
+  713  cd .....
+  714  ls
+  715  cd P
+  716  cd Python/
+  717  ls
+  718  mkdir W3R
+  719  cd W3R/
+  720  ls
+  721  man 
+  722  man man 
+  723  man games
+  724  man
+  725  man man
+  726  man ls
+  727  ls
+  728  ls -la
+  729  ls -al
+  730  unmae
+  731  uname
+  732  cal
+  733  C:/Users/Siphe/AppData/Local/Programs/Python/Python38/python.exe
+  734  numbers = 
+  735  ls
+  736  cd Python/
+  737  ls
+  738  cd W3R/
+  739  ls
+  740  python3 ./larlist.py 
+  741  whoami
+  742  python3 ./smlist.py 
+  743  ls
+  744  cd ..
+  745  ls
+  746  cd ..
+  747  ls
+  748  cd M
+  749  cd mnt/
+  750  ls
+  751  cd c
+  752  ls
+  753  cd Users/
+  754  cd Siphe
+  755  ls
+  756  cd OneDrive/
+  757  ls
+  758  cd Desktop/
+  759  cd Momo/
+  760  cd Music/
+  761  mkdir 'African Classics'
+  762  cd yubevulo/
+  763  ls
+  764  cd 'Destiny'\''s Child'/
+  765  ls
+  766  mkdir "Destiny's Child number 1's@
+  767  "
+  768  ls
+  769  cd ../../../
+  770  mkdir Misc
+  771  ls
+  772  ls Books/
+  773  ls 'Aight then'/
+  774  ls Pics/
+  775  cd p
+  776  cd 
+  777  ls
+  778  pwd
+  779  cd ../../mnt/c/users/siphe/onedrive/desktop/momo
+  780  cd Pics/
+  781  ./IMG_20200420_172559.jpg 
+  782  cd ..
+  783  ls
+  784  ls Software/
+  785  vi 'Ne
+  786  '
+  787  vi 'New Text Document (2).txt' 
+  788  nano 'New Text Document (2).txt' 
+  789  ls
+  790  exit
+  791  ls
+  792  cd ../..
+  793  ls
+  794  cd ,mt
+  795  cd mnt
+  796  ls
+  797  cd c
+  798  ls
+  799  cd Users/Siphe
+  800  ls
+  801  cd Onedrive/desktop/momo
+  802  ls
+  803  uname
+  804  uname -
+  805  uname -r
+  806  uptime
+  807  hostname
+  808  dmesg
+  809  id
+  810  who
+  811  whoami
+  812  last
+  813  la -al
+  814  ls -la
+  815  pwd
+  816  ls
+  817  cd P
+  818  cd Pics/
+  819  ls
+  820  cd ..
+  821  cd Phone/
+  822  ls
+  823  ls CodingEBooks/
+  824  ls Download/
+  825  ls
+  826  ls File_Restore/
+  827  ls
+  828  gpg -c 'File_Restore'
+  829  wc 'File_Restore'
+  830  ps
+  831  grep '.mp4;
+  832  '
+  833  grep '.mp4'
+  834  ping host
+  835  df -h
+  836  ifconfig
+  837  cd ..
+  838  ls
+  839  ls mnt
+  840  ls bin
+  841  ls
+  842  cd mnt
+  843  cd c
+  844  ls
+  845  ls windows
+  846  cd Users/
+  847  ls
+  848  cd Siphe/
+  849  ls
+  850  ls OneDrive/
+  851  cd ..
+  852  ls
+  853  cd ..
+  854  ls
+  855  cd ..
+  856  ls
+  857  ls home/
+  858  ls init
+  859  ls lib
+  860  ls
+  861  ls lib32
+  862  ls libx32
+  863  ls medis
+  864  ls media
+  865  ls opt
+  866  ls proc
+  867  ls root
+  868  lsl run
+  869  ls
+  870  ls rin
+  871  ls run
+  872  ls sbin
+  873  ls svr
+  874  ls srv
+  875  ls
+  876  ls tmp
+  877  ls usr
+  878  exit
+  879  LS CD ..
+  880  CD ..
+  881  cd ..
+  882  cd Momo\'s\ Memory\ card/
+  883  cd ..
+  884  cd Videos/
+  885  cd Series/
+  886  cd 'Mr Robot'/
+  887  ls
+  888  mkdir "Season 3"
+  889  ls
+  890  cd ..
+  891  cd amime
+  892  cd Animation/
+  893  cd Anme
+  894  cd anime
+  895  mkdir "Pscycho Pass"
+  896  cd 
+  897  cd mnt/c/users/siphe/onedrive/desktop/momo/workspaces'
+  898  '
+  899  cd mnt/c/users/siphe/onedrive/desktop/momo/workspaces
+  900  ls
+  901  cd ..
+  902  ls
+  903  cd mnt/c/users/siphe/onedrive/desktop/momo/workspaces
+  904  ls
+  905  cd Pyt/Python/
+  906  ls
+  907  mkdir Redo
+  908  cd redo
+  909  ls
+  910  cd C
+  911  ls
+  912  mkdir Pass
+  913  cd Pass/
+  914  ls
+  915  cd C
+  916  ls
+  917  cd Pass
+  918  ls
+  919  gcc -Wall -Werror -Wextra pass.c 
+  920  ./a.out abc
+  921  gcc -Wall -Werror -Wextra pass.c 
+  922  gcc -Wall -Werror -Wextra pass1.c 
+  923  ./a.out nop
+  924  gcc -Wall -Werror -Wextra pass1.c 
+  925  ./a.out nop
+  926  gcc -Wall -Werror -Wextra pass.c 
+  927  ./a.out gVL\!u\@C
+  928  ./a.out "gVL\!u\@C"
+  929  vim pass.txt
+  930  ls
+  931  cd C
+  932  cd Pass
+  933  ls
+  934  cd C/Pass
+  935  vim pass.txt 
+  936  ls
+  937  cd ..
+  938  cd ./../../
+  939  cd ..
+  940  ls
+  941  cd Videos/
+  942  ls
+  943  cd Se
+  944  cd Series/
+  945  cd 'Mr Robot'/
+  946  mkdir 'Season 4'
+  947  cd ..
+  948  cd Aminmation
+  949  cd A
+  950  cd Animation/
+  951  mkdir Avatar
+  952  cd ..
+  953  cd N
+  954  cd 'New folder'/
+  955  ls
+  956  cd 'New folder'/
+  957  mkdir CV/ tings
+  958  cd ..
+  959  cd Podcasts/
+  960  mkdir Deadly\ class
+  961  ls
+  962  ls
+  963  cd Python/
+  964  ls
+  965  ls First/
+  966  ls Redo/
+  967  cd Project/
+  968  ls
+  969  ./pass.py 
+  970  python3 ./pass.py 
+  971  ./pass.py 
+  972  python3 ./pass.py 
+  973  ./pass.py 
+  974  python3 ./pass.py 
+  975  ls
+  976  python3 ./pass.py 
+  977  ls
+  978  python3 ./pass.py 
+  979  ls
+  980  python3 ./pass.py 
+  981  cd ..
+  982  ls
+  983  cd Videos/
+  984  l
+  985  s cd Animation/Anime
+  986  ls
+  987  cd Animation/
+  988  cd Anime/
+  989  mkdir "Hunter X Hunter"
+  990  mkdir "One Punch Man"
+  991  ls
+  992  cd Python/
+  993  ls
+  994  cd ..
+  995  cd Music/
+  996  mkdir Soul
+  997  cd Soul/
+  998  mkdir AfroSoul
+  999  cd ../
+ 1000  ls
+ 1001  mkdir house/"Dukesoul"
+ 1002  ls
+ 1003  ls house/
+ 1004  ls
+ 1005  cd 'R&B'
+ 1006  cd Yuna 
+ 1007  mkdir "Yuna Chapters"
+ 1008  ls
+ 1009  cd Python/
+ 1010  ls
+ 1011  C:/Users/Siphe/AppData/Local/Programs/Python/Python38/python.exe
+ 1012  def hangman()
+ 1013  ls
+ 1014  cd python
+ 1015  ls
+ 1016  cd Projecr
+ 1017  cd Project/
+ 1018  l
+ 1019  python
+ 1020  python3 hangman.py 
+ 1021  ls
+ 1022  cd
+ 1023  ls
+ 1024  cd 
+ 1025  cd .
+ 1026  ls
+ 1027  cd \'\'\$\'\033
+ 1028  cd \'\'\$\'\\033
+ 1029  cd \'\'\$\'\\033\'
+ 1030  cd \"\$\'\\033\'
+ 1031  cd ''$'\033
+ 1032  '
+ 1033  cd ''$'\033'
+ 1034  cd '\'$'\033'
+ 1035  cd ''$'\033'
+ 1036  cd \''$'\033'
+ 1037  '
+ 1038  cd \''$'\033\'
+ 1039  ls
+ 1040  \'\'\$\'\\033\'
+ 1041  cd \'\'\$\'\\033\'
+ 1042  cd ''$'\033'exit
+ 1043  exit
+ 1044  ls
+ 1045  cd Python/
+ 1046  ls
+ 1047  cd Project/
+ 1048  ls
+ 1049  python3 hangman.py 
+ 1050  sudo apt updtae
+ 1051  C:/Users/Siphe/AppData/Local/Programs/Python/Python38/python.exe
+ 1052  def get_word():
+ 1053  print
+ 1054  pyhton3 hang.py
+ 1055  python3 hang.py
+ 1056  cd Python/
+ 1057  cd Project/
+ 1058  python3 hang.py
+ 1059  python3 hangman.py
+ 1060  python3 hang.py
+ 1061  sudo apt update
+ 1062  ls
+ 1063  sudo aot-get upgrade
+ 1064  sudo apt-get upgrade
+ 1065  apt ls
+ 1066  apt list --upgradeable
+ 1067  apt list --upgradable
+ 1068  ls
+ 1069  cd Python/
+ 1070  ls
+ 1071  cd C
+ 1072  mkdir Pract
+ 1073  cd Pract/
+ 1074  kpasswd
+ 1075  klist
+ 1076  kinit
+ 1077  man git log
+ 1078  mdir day01
+ 1079  mkdir day00
+ 1080  cd day00/
+ 1081  mkdir ex07
+ 1082  cd ex07
+ 1083  man ls
+ 1084  cd ..
+ 1085  mkdir ex09
+ 1086  cd ex09
+ 1087  cd ..
+ 1088  cd ex08
+ 1089  cd ex07
+ 1090  m
+ 1091  ls
+ 1092  midLS
+ 1093  man diff
+ 1094  cd C/Pract/day01
+ 1095  ls
+ 1096  cd ex00
+ 1097  ls
+ 1098  make alpha 
+ 1099  make ft_print 
+ 1100  make ft_print_alpha 
+ 1101  ls
+ 1102  ./ft_print_alpha
+ 1103  cd ..
+ 1104  mkdir ex01
+ 1105  cd ex01
+ 1106  touch ft_print_reverse_alphabet.c
+ 1107  make alpha -o  ft_print_reverse_alphabet.c
+ 1108  make ft_print_reverse_alphabet.c -o alpha
+ 1109  gcc -o alpha ft_print_reverse_alphabet.c
+ 1110  ./alpha 
+ 1111  cd ..
+ 1112  mkdir ex02
+ 1113  cd ex02
+ 1114  touch ft_print_numbers.c
+ 1115  gcc -o numbers ft_print_numbers.c 
+ 1116  ./numbers 
+ 1117  gcc -o numbers ft_print_numbers.c 
+ 1118  ./numbers 
+ 1119  whoami
+ 1120  apt --upgradable
+ 1121  apt list --upgradable
+ 1122  python
+ 1123  python3
+ 1124  ls
+ 1125  cd 
+ 1126  mkdir boo
+ 1127  cd boo
+ 1128  vim ex.py
+ 1129  python3 ex.py 
+ 1130  gedit
+ 1131  sudo apt update
+ 1132  ls
+ 1133  exit
+ 1134  node
+ 1135  sudo apt install nodejs
+ 1136  ls 
+ 1137  md "git-basic-exercises"
+ 1138  mkdir "git-basic-exercises"
+ 1139  cd git-basic-exercises/
+ 1140  ls -a
+ 1141  git init
+ 1142  git status
+ 1143  git
+ 1144  touch README.md
+ 1145  ls -a
+ 1146  git status
+ 1147  git log
+ 1148  git config
+ 1149  gut
+ 1150  git
+ 1151  git branch
+ 1152  git add README.md 
+ 1153  git commit -m "initial commit"
+ 1154  git config --global user.email "yellowm0098@gmail.com"
+ 1155  git config --global user.name "Yellsi"
+ 1156  git commit -m "initial commit"
+ 1157  git log
+ 1158  nano README.md 
+ 1159  Y
+ 1160  nano README.md 
+ 1161  cat README.md 
+ 1162  git status
+ 1163  git add README.md 
+ 1164  git commit -m "second commit"
+ 1165  vim README.md 
+ 1166  git add README.md 
+ 1167  git commit -m "third commit"
+ 1168  git log
+ 1169  git checkout 94e8a4b1c4677d1c2466d66c547f3422d1071524
+ 1170  cat README.md 
+ 1171  git checkout master
+ 1172  cat README.md 
+ 1173  git branch
+ 1174  git
+ 1175  git branch milkshake-flavours
+ 1176  git branch
+ 1177  git switch milkshake-flavours 
+ 1178  git branch 
+ 1179  vim milkshakes.md
+ 1180  git status
+ 1181  git add milkshakes.md 
+ 1182  git commit -m "added initial flavours"
+ 1183  git log
+ 1184  ls
+ 1185  git switch
+ 1186  git switch master 
+ 1187  ls -a
+ 1188  git branch history
+ 1189  git switch history 
+ 1190  git log
+ 1191  git branch
+ 1192  history > history.txt
+ 1193  cat history.txt 
+ 1194  git add history.txt 
+ 1195  git commit -m "added history"
+ 1196  git log
+ 1197  git switch milkshake-flavours 
+ 1198  git log
+ 1199  ls
+ 1200  vim README.md 
+ 1201  git add README.md 
+ 1202  git commit -m "random readme changes" 
+ 1203  history
+ 1204  cat README.md 
+ 1205  git branch
+ 1206  git switch history
+ 1207  cat README.md 
+ 1208  rm README.md 
+ 1209  echo "booya" > README.md
+ 1210  git add README.md 
+ 1211  git commit -m "rewrote readme"
+ 1212  git checkout master
+ 1213  ls
+ 1214  git log
+ 1215  git checkout milkshake-flavours 
+ 1216  ls
+ 1217  git log
+ 1218  git checkout history 
+ 1219  ls
+ 1220  git log
+ 1221  git checkout master
+ 1222  git merge milkshake-flavours 
+ 1223  ls
+ 1224  gitlog
+ 1225  git log
+ 1226  git checkout history 
+ 1227  git log
+ 1228  git log 
+ 1229  exit
+ 1230  git log
+ 1231  git status
+ 1232  git help
+ 1233  git help config
+ 1234  ls 
+ 1235  rm git-basic-exercises/
+ 1236  rmdir git-basic-exercises/
+ 1237  rm -R git-basic-exercises/
+ 1238  y
+ 1239  ls
+ 1240  mkdir git-basic-exercises
+ 1241  cd git-basic-exercises/
+ 1242  ls -a
+ 1243  git init
+ 1244  touch README.md
+ 1245  git status
+ 1246  git log
+ 1247  git add README.md 
+ 1248  git commit -m "initial commit"
+ 1249  git log
+ 1250  nano README.md 
+ 1251  cat 
+ 1252  cat README.md 
+ 1253  git branch
+ 1254  git stats
+ 1255  git status
+ 1256  nano README.md 
+ 1257  git status
+ 1258  git add README.md 
+ 1259  git commit -m "Second commit"
+ 1260  nano README.md 
+ 1261  git add README.md 
+ 1262  git commit -m "third commit"
+ 1263  git log
+ 1264  git checkout e9ecaae8330192209bdb316e7fc4622914fde6b6
+ 1265  cat README.md 
+ 1266  git checkout master
+ 1267  cat R
+ 1268  cat README.md 
+ 1269  git branch
+ 1270  git branch milkshake-flavours
+ 1271  git branch
+ 1272  git checkout milkshake-flavours 
+ 1273  git branch 
+ 1274  nano milkshakes.md
+ 1275  git status
+ 1276  git add milkshakes.md 
+ 1277  git commit -m "added initial flavours"
+ 1278  git log
+ 1279  git checkout master
+ 1280  git log
+ 1281  git branch history
+ 1282  git checkout history 
+ 1283  git log
+ 1284  git branch 
+ 1285  history > history.txt
